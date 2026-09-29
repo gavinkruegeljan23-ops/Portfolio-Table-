@@ -112,7 +112,3 @@
             <td>Photography</td>
         </tr>
     </tbody>
-</table>
-
-</body>
-</html>
