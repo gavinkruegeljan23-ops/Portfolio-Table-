@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -8,7 +9,7 @@
         font-family: Constantia, Georgia, serif;
         margin: 0 auto;
         padding: 20px;
-        max-width: 1024px; /* keeps layout centered without forcing a gap */
+        max-width: 1024px; /* FIXES the gap issue */
         background: #f5f5f5;
     }
 
@@ -73,21 +74,21 @@
             <td>The Alley Movie Poster</td>
             <td>PNG</td>
             <td>3000 × 4500 px</td>
-            <td>2026</td>
+            <td>2024</td>
             <td>Poster Design</td>
         </tr>
         <tr>
             <td>The Springers World Tour Poster</td>
             <td>PNG</td>
             <td>2400 × 3600 px</td>
-            <td>2026</td>
+            <td>2025</td>
             <td>Poster Design</td>
         </tr>
         <tr>
             <td>Self Drawing on Illustrator</td>
             <td>JPG</td>
             <td>1920 × 1080 px</td>
-            <td>2026</td>
+            <td>2024</td>
             <td>Digital Illustration</td>
         </tr>
         <tr>
@@ -101,14 +102,18 @@
             <td>The Museum — Andy Warhol Style</td>
             <td>PNG</td>
             <td>3000 × 3000 px</td>
-            <td>2026</td>
+            <td>2023</td>
             <td>Pop Art</td>
         </tr>
         <tr>
             <td>Work Hard Play Hard Nike Photoshoot</td>
             <td>PNG</td>
             <td>1920 × 1080 px</td>
-            <td>2026</td>
+            <td>2025</td>
             <td>Photography</td>
         </tr>
     </tbody>
+</table>
+
+</body>
+</html>
